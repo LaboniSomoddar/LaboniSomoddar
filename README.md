@@ -12,7 +12,7 @@
 A clear mindset of solving problems with various languages, learning new tricks of solving problems. Currently studying BSc in Computer Science & Engineering.
 -	B.Sc from American International University - Bangladesh. (Expected graduation on 2025)
 -	Completed HSC from Willes Little Flower, Dhaka.
--	Completed Jatrabari Ideal School and college, Dhaka.
+-	Completed SSC Jatrabari Ideal School and college, Dhaka.
 -	Favourite Language is python and Java.
 
 <br>
