@@ -62,7 +62,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
   
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaboniSomoddar&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
        
  ## <img src="https://baypark.ca/wp-content/uploads/2020/02/spotify-logo-png-spotify-music-app-icon-1024.jpg" width="20px"/>  Spotify Playing 🎧
